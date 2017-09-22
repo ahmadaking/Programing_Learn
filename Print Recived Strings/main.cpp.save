@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+    int x[10];
+    int getArray(int x[]);
+    //cout << "Enter 10 +ve numbers:" << endl;
+    //cin <<
+    int e = getArray(x);
+    int b = printArrray(x,10);
+
+return 0;
+}
